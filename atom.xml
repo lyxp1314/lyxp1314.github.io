@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lyxp1314.github.io/"/>
-  <updated>2020-03-23T17:05:43.570Z</updated>
+  <updated>2020-03-23T18:02:46.504Z</updated>
   <id>https://lyxp1314.github.io/</id>
   
   <author>
@@ -21,13 +21,15 @@
     <link href="https://lyxp1314.github.io/2020/03/24/1/"/>
     <id>https://lyxp1314.github.io/2020/03/24/1/</id>
     <published>2020-03-23T17:05:43.000Z</published>
-    <updated>2020-03-23T17:05:43.570Z</updated>
+    <updated>2020-03-23T18:02:46.504Z</updated>
     
     <summary type="html">
     
     </summary>
     
     
+    
+      <category term="tag1" scheme="https://lyxp1314.github.io/tags/tag1/"/>
     
   </entry>
   
